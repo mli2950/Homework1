@@ -1,7 +1,9 @@
-This is a project for Horiseon Social Solution Services.
+Description
 
-I was able to: 
-1. Make all of the links work correctly
-2. Added title tags to each image
-3. Converted each <div> tag to semantics
-4. Condensed the CSS
+This website is made for Horiseon Social Solution Services. 
+They are a company that offers Search Engine Optimization, Online Reputiation Management, and Social Media Markting.
+
+Here is the link to their website: https://mli2950.github.io/Homework1/
+
+
+![alttext](App_Screenshot.png "Screenshot")
